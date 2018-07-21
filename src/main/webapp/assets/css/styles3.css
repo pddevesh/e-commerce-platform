@@ -1,0 +1,33 @@
+
+#table{
+  width:60%;
+  margin:0 auto;
+  align:center;
+}
+
+td{
+  width:30%;
+}
+
+td.imagetd{
+}
+
+.img5{
+  max-width:200px;
+  max-height:200px;
+  margin:0 auto;
+  align-items:center;
+  display:flex;
+}
+
+th{
+  border:1px solid black;
+}
+
+td{
+  border:1px solid black;
+}
+
+tr{
+  border:1px solid black;
+}

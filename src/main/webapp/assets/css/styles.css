@@ -1,0 +1,44 @@
+#productimg{
+  max-height:150px;
+  max-width:180px;
+  margin:0 auto;
+}
+
+#allp{
+  margin-top:50px;
+}
+
+
+#cmd3.item{
+  margin-top:40px;
+  border-bottom:1px solid #ddd7d7;
+  height:300px;
+  padding:10px;
+}
+
+
+
+#s1{
+  max-width:500px;
+}
+
+#mainbody{
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.42857143;
+  color:#333;
+  background-color:#fff;
+}
+
+
+#bodyraw.row{
+  margin-top:130px;
+}
+
+#imagediv{
+  width:180px;
+  height:150px;
+  margin:0 auto;
+  align-items:center;
+  display:flex;
+}
